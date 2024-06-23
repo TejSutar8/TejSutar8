@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tej Sutar</h1>
-<h3 align="center">Web Developer with a keen interest in creating sleek and user-friendly web applications</h3>
+<h3 align="center">A Passionate Full Stack Developer with a keen interest in creating sleek and user-friendly web applications. With a solid foundation in both frontend and backend technologies, I enjoy bringing ideas to life through code. I constantly seek to improve my skills and explore new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejsutar8&label=Profile%20views&color=0e75b6&style=flat" alt="tejsutar8" /> </p>
 
@@ -23,13 +23,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/tej-sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tej-sutar" height="30" width="40" /></a>
 <a href="https://dev.to/https://developers.google.com/profile/u/tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://developers.google.com/profile/u/tejsutar8" height="30" width="40" /></a>
 <a href="https://twitter.com/tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejsutar8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tej-sutar-6094b52a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tej-sutar-6094b52a5/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25470101/tej-sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25470101/tej-sutar" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/tejsutar8" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/tejsutar8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tejsutar8/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/tejsutar8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tejsutar8/" height="30" width="40" /></a>
 <a href="https://medium.com/@tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejsutar8" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/tejsutar8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tejsutar8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tejsutar8" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@tejsutar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@tejsutar8" height="30" width="40" /></a>
 <a href="/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="na" height="30" width="40" /></a>
 </p>
 
@@ -41,4 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejsutar8&show_icons=true&locale=en" alt="tejsutar8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejsutar8&" alt="tejsutar8" /></p>
-
