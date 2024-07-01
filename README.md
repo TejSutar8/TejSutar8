@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejsutar8&show_icons=true&locale=en" alt="tejsutar8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejsutar8&" alt="tejsutar8" /></p>
+
+<a href="https://app.daily.dev/tejsutar"><img src="https://api.daily.dev/devcards/v2/S9GQPrdIH8zmzbelwAhQg.png?r=76u&type=wide" width="652" alt="Tej Sutar's Dev Card"/></a>
