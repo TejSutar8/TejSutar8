@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tej Sutar</h1>
 <h3 align="center">A Passionate Full Stack Developer with a keen interest in creating sleek and user-friendly web applications. With a solid foundation in both frontend and backend technologies, I enjoy bringing ideas to life through code. I constantly seek to improve my skills and explore new technologies</h3>
 
-<blockquote class="twitter-tweet" data-media-max-width="560" data-lang="en"><p lang="en" dir="ltr">Nobody cares about your struggle if you don&#39;t win.</p>&mdash; Tej Sutar (@TejSutar8) <a href="https://twitter.com/TejSutar8/status/1807838585414210032?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejsutar8&label=Profile%20views&color=0e75b6&style=flat" alt="tejsutar8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejsutar8" alt="tejsutar8" /></a> </p>
