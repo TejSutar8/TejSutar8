@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tej Sutar</h1>
 <h3 align="center">A Passionate Full Stack Developer with a keen interest in creating sleek and user-friendly web applications. With a solid foundation in both frontend and backend technologies, I enjoy bringing ideas to life through code. I constantly seek to improve my skills and explore new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejsutar8&label=Profile%20views&color=0e75b6&style=flat" alt="tejsutar8" /> </p>
+[![](https://visitcount.itsvg.in/api?id=TejSutar8&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejsutar8" alt="tejsutar8" /></a> </p>
 
@@ -37,6 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejsutar8&show_icons=true&locale=en" alt="tejsutar8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejsutar8&" alt="tejsutar8" /></p>
-
 
 <a href="https://app.daily.dev/tejsutar"><img src="https://api.daily.dev/devcards/v2/S9GQPrdIH8zmzbelwAhQg.png?r=76u&type=wide" width="652" alt="Tej Sutar's Dev Card"/></a>
