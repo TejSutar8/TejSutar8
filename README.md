@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tej Sutar</h1>
 <h3 align="center">A Passionate Full Stack Developer with a keen interest in creating sleek and user-friendly web applications. With a solid foundation in both frontend and backend technologies, I enjoy bringing ideas to life through code. I constantly seek to improve my skills and explore new technologies</h3>
 
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejsutar8&label=Profile%20views&color=0e75b6&style=flat" alt="tejsutar8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejsutar8" alt="tejsutar8" /></a> </p>
