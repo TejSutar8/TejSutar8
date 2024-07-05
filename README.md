@@ -1,3 +1,5 @@
+![Design and development](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNTA5NjgsIm5iZiI6MTcyMDE1MDY2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDAzMzc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhZWViNGFiMTI5NGRjYjY3MDMwZjA2MDMxNGU5ODAyN2M5ZGQ2ZDFmOTE1M2NkMWU3MTg1MzBlYjM0ZjA2ZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Gg1RmM6nm6qZImJciXJsHN_F2g2rcKAFn4j3etWzcWM)
+
 <h1 align="center">Hi 👋, I'm Tej Sutar</h1>
 <h3 align="center">A Passionate Full Stack Developer with a keen interest in creating sleek and user-friendly web applications. With a solid foundation in both frontend and backend technologies, I enjoy bringing ideas to life through code. I constantly seek to improve my skills and explore new technologies</h3>
 
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejsutar8" target="blank"><img src="https://img.shields.io/twitter/follow/tejsutar8?logo=twitter&style=for-the-badge" alt="tejsutar8" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on **Chat_App**
 
