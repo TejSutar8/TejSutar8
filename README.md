@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Chat_App**
 
-- 🌱 I’m currently learning **Full Stack Development,C,DSA**
+- 🌱 I’m currently learning **Full Stack Development, C, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejSutar8?tab=repositories](https://github.com/TejSutar8?tab=repositories)
 
