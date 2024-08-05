@@ -9,11 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/tejsutar8" target="blank"><img src="https://img.shields.io/twitter/follow/tejsutar8?logo=twitter&style=for-the-badge" alt="tejsutar8" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on **Chat_App**
 
-- 🌱 I’m currently learning **DSA, Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development,C,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejSutar8?tab=repositories](https://github.com/TejSutar8?tab=repositories)
 
