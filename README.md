@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejsutar8" target="blank"><img src="https://img.shields.io/twitter/follow/tejsutar8?logo=twitter&style=for-the-badge" alt="tejsutar8" /></a> </p>
 
-- 🔭 I’m currently working on [Chat_App](https://github.com/TejSutar8/Mern_Chat-App)
+- 🔭 I’m currently working on [Personal_Finance_Tracker](https://github.com/TejSutar8/Personal_Finance_Tracker)
 
 - 🌱 I’m currently learning **DSA,Python,Full Stack Developer**
 
